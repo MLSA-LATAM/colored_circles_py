@@ -1,7 +1,7 @@
-# colored_circles_py
+# Colored Circles in Python
 ## Descripción
+Aquí aprenderás cómo hacer un creador de patrones de círculos coloridos con **Python** usando **Turtle**, estos patrones forman estrellas de 5 puntas de la cual se va recorriendo hacia la derecha teniendo el pivote en el centro de la pantalla.
 
----
 ## Requisitos
 Principalmente verificar que tengas estos recursos instalados en tu ordenador:
 
